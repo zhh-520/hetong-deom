@@ -16,7 +16,7 @@ WARNING_COLOR = "#FF7D00"
 INFO_COLOR = "#00B42A"
 
 # 评委专属访问密码（这里修改你的密码，仅告知评委即可）
-ACCESS_PASSWORD = "srtp2026"
+ACCESS_PASSWORD = "123456"
 
 # ====================== 1. 参赛防抄袭密码锁（无语法错误，直接用）======================
 def check_password():
