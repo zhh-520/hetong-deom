@@ -95,8 +95,8 @@ with st.sidebar:
 
     st.divider()
     st.markdown("### 参赛信息")
-    st.caption("参赛院校：XX大学")
-    st.caption("项目团队：XX团队")
+    st.caption("参赛院校：安徽工业大学")
+    st.caption("项目团队：鸢尾花团队")
     st.caption("指导老师：XX老师")
     
     st.divider()
